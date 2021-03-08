@@ -15,5 +15,4 @@ Linguagem utilizada: C#
 8. Revisar o Projeto.
 
 ##### Obs: Os prints da Página rodando podem ser encontrados na Pasta "Prints_PáginaWebFuncionando"
-#### Elaborado por: Matheus Machado de Oliveira - Turma 1DM Desenvolvimento de Sistemas
-#### Senai Suiço-Brasileira Paulo Ernesto Tolle
+#### Elaborado por: Matheus Machado de Oliveira - Turma 1DM Desenvolvimento de Sistemas - Senai Suiço-Brasileira Paulo Ernesto Tolle
