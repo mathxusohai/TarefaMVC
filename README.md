@@ -14,7 +14,7 @@ Linguagem utilizada: C#
 7. Finalizar todos os Projetos.
 8. Revisar o Projeto.
 
-Obs: Os prints da Página rodando podem ser encontrados na Pasta "Prints_PáginaWebFuncionando"
+###### Obs: Os prints da Página rodando podem ser encontrados na Pasta "Prints_PáginaWebFuncionando"
 
 
 #### Elaborado por: Matheus Machado de Oliveira - Turma 1DM Desenvolvimento de Sistemas
