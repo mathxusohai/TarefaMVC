@@ -13,3 +13,7 @@ Linguagem utilizada: C#
 6. Tirar Prints(Pastas, Interface, Planejamento e Página rodando.)
 7. Finalizar todos os Projetos.
 8. Revisar o Projeto.
+
+
+#### Elaborado por: Matheus Machado de Oliveira - Turma 1DM Desenvolvimento de Sistemas
+#### Senai Suiço-Brasileira Paulo Ernesto Tolle
